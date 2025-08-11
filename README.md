@@ -17,7 +17,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Automation                                    | <a href="https://github.com/Chris-DiCarlo/Home-Automation/blob/main/README.md">Home Automation</a>|
-| Playbook writing                              | <a href=""> Playbook Writing</a>
+| Playbook writing                              | <a href="https://github.com/Chris-DiCarlo/Playbook-Writing/edit/main/README.md"> Playbook Writing</a>
 
 
 ## Tools
@@ -64,4 +64,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - <a href="https://github.com/Chris-DiCarlo/Home-Automation/blob/main/README.md">Home automation via Home assistant hosted by Proxmox </a>
-- SOC Automation Project
+- <a href="https://github.com/Chris-DiCarlo/Playbook-Writing/edit/main/README.md"> Playbook Writing</a>
