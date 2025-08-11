@@ -9,19 +9,16 @@ I am a career professional working in cyber security with years of experience.
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am currently working in an incident response / insider threat role
+My journey in computer science has led me to develop a passion for cybersecurity, and I am a results-driven cybersecurity professional with proven expertise in Incident Response & Threat Detection, Automation, Endpoint & Network Security, and Cloud Security (Azure, Sentinel, Defender, MCAS). Skilled in Threat Hunting, Threat Intelligence,  with a strong track record in Data Loss Prevention (DLP), SIEM management, Vulnerability Management, and Security Program Architecture aligned to leading security frameworks. Experienced in developing and operationalizing playbooks/runbooks, leading cross-functional and global teams, and delivering clear executive reporting and technical documentation. Adept at security policy, risk management, and compliance while fostering a culture of continuous improvement through team leadership, mentoring, and training. Seeking a Team Lead or Manager role in DFIR, Incident Response, or Security Engineering—open to both leadership and high-impact individual contributor opportunities where I can drive operational excellence and enhance organizational resilience.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Automation                                    | <a href="https://google.com">Home Automation</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Automation                                    | <a href="https://github.com/Chris-DiCarlo/Home-Automation/blob/main/README.md">Home Automation</a>|
+| Playbook writing                              | <a href=""> Playbook Writing</a>
+
 
 ## Tools
 <div>
@@ -66,5 +63,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Home automation via Home assistant hosted by Proxmox
+- <a href="https://github.com/Chris-DiCarlo/Home-Automation/blob/main/README.md">Home automation via Home assistant hosted by Proxmox </a>
 - SOC Automation Project
