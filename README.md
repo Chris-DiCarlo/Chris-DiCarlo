@@ -52,6 +52,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Certifications
 <div>
+Degrees <BR>
+<img src="https://img.shields.io/badge/-Bachelor's%20in%20Information%20Technology-228B22?&style=for-the-badge&logo=academia&logoColor=white" />
+<img src="https://img.shields.io/badge/-Master's%20in%20Cybersecurity-000080?&style=for-the-badge&logo=academia&logoColor=white" />
+<BR><BR>
 <img src="https://img.shields.io/badge/-ITIL%20Foundation-2F4F4F?&style=for-the-badge&logo=ITIL&logoColor=white" />
 <img src="https://img.shields.io/badge/-Lean%20Six%20Sigma%20Green%20Belt-006400?&style=for-the-badge&logo=Six%20Sigma&logoColor=white" />
 <BR>In Progress<BR>
