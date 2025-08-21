@@ -18,7 +18,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | Automation                                    | <a href="https://github.com/Chris-DiCarlo/Home-Automation/blob/main/README.md">Home Automation</a>|
 | Playbook writing                              | <a href="https://github.com/Chris-DiCarlo/Playbook-Writing/edit/main/README.md"> Playbook Writing</a>
-| Cyber Security Write Up's                     | <a href="https://github.com/Chris-DiCarlo/Write-ups/edit/main/README.md"> Write up's </a>
+| Cyber Security Write Up's (WIP)                    | <a href="https://github.com/Chris-DiCarlo/Write-ups/edit/main/README.md"> Write up's </a>
 
 
 ## Tools
